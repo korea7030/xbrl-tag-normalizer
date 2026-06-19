@@ -56,7 +56,7 @@ The full version adds:
 - **3 production-ready prompt sets** — 34 few-shot examples for tag normalization, section detection, and table cleaning
 - **30 verified test cases**
 
-**[$49 XBRL Pack / $149 Full Bundle → gumroad.com/YOUR_HANDLE]**
+**[$49 XBRL Pack / $149 Full Bundle → gumroad.com/koreajhl]**
 
 ## Requirements
 
