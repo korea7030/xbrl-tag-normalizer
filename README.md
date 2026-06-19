@@ -1,5 +1,9 @@
 # xbrl-tag-normalizer
 
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
+[![GitHub Stars](https://img.shields.io/github/stars/korea7030/xbrl-tag-normalizer?style=social)](https://github.com/korea7030/xbrl-tag-normalizer/stargazers)
+
 Normalize SEC XBRL tags to standard financial fields — no API key required.
 
 ```bash
@@ -62,3 +66,7 @@ The full version adds:
 
 - Python 3.10+
 - No API key needed for the lite version
+
+---
+
+If this saved you time, a ⭐ star helps others find it.
